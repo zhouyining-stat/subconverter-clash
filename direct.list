@@ -8,6 +8,8 @@ PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com
 
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,yiningzhou.cn
