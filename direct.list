@@ -7,6 +7,7 @@ PROCESS-NAME,aria2c
 PROCESS-NAME,zerotier-one
 PROCESS-NAME,nginx
 DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,ls.apple.com
 
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,yiningzhou.cn
