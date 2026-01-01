@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com
 
+DOMAIN-SUFFIX,immersivetranslate.cn
+
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,yiningzhou.cn
 DOMAIN-SUFFIX,glddns.com
