@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,typora.io
 
+DOMAIN-SUFFIX,manuscriptcentral.com
+DOMAIN-SUFFIX,edu.tw
+
 # NAME: wiki
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,toolforge.org
