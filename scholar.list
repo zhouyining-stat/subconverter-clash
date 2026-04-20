@@ -1,7 +1,7 @@
 # 请务必同时添加scholar_dir.list, 并将本规则置其后
 
 
-
+DOMAIN-KEYWORD,scholar.google
 DOMAIN-SUFFIX,nenu.edu.cn
 DOMAIN-SUFFIX,ynu.edu.cn
 DOMAIN-SUFFIX,openreview.net
